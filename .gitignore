@@ -1,3 +1,15 @@
+
+#IntelliJ IDEA
 .idea/
-out/
 *.iml
+
+#Archivos compilados
+out/
+*.class
+
+#Logs
+*.log
+
+#Ssistema operativo
+.DS_Store
+Thumbs.db
