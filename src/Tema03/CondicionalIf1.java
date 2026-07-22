@@ -12,7 +12,7 @@ public class CondicionalIf1 {
 
         int edad  = sc.nextInt();
 
-        if (edad <= 18){
+        if (edad >= 18){
             System.out.println("Bienvenido a la  mayoría de edad");
         }else {
             System.out.println("Eres muy joven");
